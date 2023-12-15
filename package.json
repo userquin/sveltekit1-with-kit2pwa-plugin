@@ -1,5 +1,5 @@
 {
-	"name": "sveltekit-ts",
+	"name": "sveltekit1-with-kit2pwa-plugin",
 	"version": "0.0.0",
 	"packageManager": "pnpm@8.12.1",
 	"scripts": {
